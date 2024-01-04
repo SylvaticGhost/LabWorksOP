@@ -1,0 +1,3 @@
+﻿  LabWork3.cpp
+D:\code\LabWorks\LabWork3\LabWork3.cpp(20,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  LabWork3.vcxproj -> D:\code\LabWorks\x64\Debug\LabWork3.exe
