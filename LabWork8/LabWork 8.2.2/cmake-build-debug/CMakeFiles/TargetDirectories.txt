@@ -1,0 +1,3 @@
+/Users/Kostia/Desktop/code/My LabWorks/LabWork 8.2.2/cmake-build-debug/CMakeFiles/LabWork_8_2_2.dir
+/Users/Kostia/Desktop/code/My LabWorks/LabWork 8.2.2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/Kostia/Desktop/code/My LabWorks/LabWork 8.2.2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
